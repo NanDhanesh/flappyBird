@@ -1,2 +1,2 @@
 # flappyBird
-Small flappy bird implementation using Pygame
+Flappy bird implementation using Pygame
